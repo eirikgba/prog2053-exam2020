@@ -41,8 +41,8 @@ class EditUser extends LitElement {
           </div>
 
           <div class="form-group">
-              <label for="content">Last name</label>
-              <input type="password" class="form-control" id="passwrd" name="lasName" placeholder="Doe">
+              <label for="content">New Password</label>
+              <input type="password" class="form-control" id="passwrd" name="passwrd" placeholder="Doe">
           </div>
 
           <div class="form-group">
